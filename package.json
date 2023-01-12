@@ -18,8 +18,17 @@
   },
   "homepage": "https://github.com/Rki0/mern-stack-geo-udemy-back#readme",
   "dependencies": {
+    "axios": "^1.2.2",
+    "bcrypt": "^5.1.0",
     "body-parser": "^1.20.1",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.3",
+    "mongoose-unique-validator": "^3.1.0",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"

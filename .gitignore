@@ -1,1 +1,7 @@
 node_modules
+
+mongo.js
+mongoose.js
+/models/products.js
+
+nodemon.json
